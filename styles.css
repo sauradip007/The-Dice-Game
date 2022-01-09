@@ -1,0 +1,37 @@
+*{
+    background-color: #393E46;
+}
+.container{
+    text-align:center;
+    padding-top:3%;
+    color:#4ECCA3;
+    
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size:8rem;
+}
+.players{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+.player1{
+    margin-left:5%;
+    margin-right:5%;
+}
+.player2{
+    margin-left:5%;
+    margin-right:5%;
+}
+p{
+    font-size: 2rem;
+    font-family:'Indie Flower', cursive;
+}
+footer{
+    padding-top:7%;
+    color:#ffff;
+    text-align:center;
+    font-family:'Indie Flower', cursive;
+}
